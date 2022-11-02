@@ -1,0 +1,36 @@
+[
+  {
+    "customerId": 1,
+    "name": "Jose Carlos",
+    "gender": "MASCULINO",
+    "age": 21,
+    "dni": "12345678",
+    "address": "Av. Las Palmeras",
+    "telephone": "967877654",
+    "password": "12345",
+    "status": true
+  },
+  {
+    "customerId": 2,
+    "name": "Marco Aurelio",
+    "gender": "MASCULINO",
+    "age": 21,
+    "dni": "12345679",
+    "address": "Av. Las Palmeras",
+    "telephone": "912877654",
+    "password": "12345",
+    "status": true
+  },
+  {
+    "customerId": 3,
+    "name": "Manuel Ramirez",
+    "gender": "MASCULINO",
+    "age": 21,
+    "dni": "12345670",
+    "address": "Av. Las Palmeras",
+    "telephone": "967435654",
+    "password": "12345",
+    "status": true
+  }
+]
+

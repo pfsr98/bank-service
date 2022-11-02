@@ -1,0 +1,10 @@
+{
+  "customerId": 1,
+  "name": "Marco Aurelio",
+  "gender": "MASCULINO",
+  "age": 21,
+  "address": "Av. Las Palmeras",
+  "telephone": "912877654",
+  "password": "12345",
+  "status": true
+}
